@@ -1,0 +1,22 @@
+
+body{
+background: #c1d4e8;
+background: radial-gradient(circle, rgba(193, 212, 232, 1) 0%, rgba(151, 184, 222, 1) 100%);
+img {
+ max-width: 800px;
+ height: 500px;
+
+}
+
+p { 
+  color: crimson;
+}
+h1{
+  color: crimson;
+}
+ul {
+  color: crimson;
+}
+h2 {
+  color: crimson;
+}
